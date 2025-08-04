@@ -53,12 +53,25 @@ To design and develop a **multi-role Power BI dashboard** that enables:
 
 ## 📷 Screenshots
 
-Refer to the `/screenshots` folder for visuals of each dashboard view:  
-**Sales • Customers • Inventory • Feedback • Marketing • Overview**
+<img width="1259" height="701" alt="front page" src="https://github.com/user-attachments/assets/ad00a0a7-3074-4686-b508-34f6505b420b" />
+
+<img width="1260" height="705" alt="problem statement" src="https://github.com/user-attachments/assets/2d5badf9-a445-4f57-a906-ecf0b6b74693" />
+
+<img width="1256" height="703" alt="overview dashboard" src="https://github.com/user-attachments/assets/fbb37712-cf4e-4933-b5c5-5f910bbb7869" />
+
+<img width="1252" height="699" alt="Screenshot 2025-08-04 095627" src="https://github.com/user-attachments/assets/ab88f510-60b1-4f5d-8abc-ac798107cdc8" />
+
+<img width="1261" height="699" alt="Screenshot 2025-08-04 095649" src="https://github.com/user-attachments/assets/3154c355-736a-49c0-ba2c-0dc4f4bf8849" />
+
+<img width="1258" height="701" alt="customer feedback" src="https://github.com/user-attachments/assets/04c3ee78-83b4-4f29-bcae-d98de8112351" />
+
+<img width="1250" height="702" alt="Screenshot 2025-08-04 095740" src="https://github.com/user-attachments/assets/d9f34b26-4ad9-4542-a8fc-2e0e2b7b6499" />
+
+<img width="1250" height="696" alt="maketing dashboard" src="https://github.com/user-attachments/assets/46d52ed3-9bdc-4148-83f9-b457bc2e37f8" />
 
 
 ## ✅ Project Status
 
 - ✔️ Completed  
 - 🔧 Actively reviewed and tested for optimization  
-- 🤝 Open to contributions and suggestions
+- 🤝 Open to contributions and suggestions give it like human written
